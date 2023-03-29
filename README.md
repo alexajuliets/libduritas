@@ -1,1 +1,1 @@
-# libduritas
+# linduritas
